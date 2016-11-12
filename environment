@@ -1,0 +1,6 @@
+export DIB_IMAGE_CACHE="/cache"
+export DIB_DEV_USER_USERNAME="devuser"
+export DIB_DEV_USER_SHELL="/bin/bash"
+export DIB_DEV_USER_PWDLESS_SUDO="true"
+export DIB_DEV_USER_AUTHORIZED_KEYS=${DIB_DEV_USER_AUTHORIZED_KEYS:-}
+export DIB_DEV_USER_PASSWORD="asdf"
