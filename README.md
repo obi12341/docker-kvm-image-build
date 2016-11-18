@@ -1,5 +1,7 @@
 # docker-kvm-image-build
 
+Work in progress! Do not use it for production yet.
+
 Simply run `bash run.sh` to build new debian base image
 
 
