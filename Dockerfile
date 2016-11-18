@@ -10,8 +10,6 @@ RUN apt-get update && apt-get install -y \
 	udev \
 	kpartx \
 	debootstrap \
-	man \
-	nano \
 	git \
 	&& pip install diskimage-builder
 
