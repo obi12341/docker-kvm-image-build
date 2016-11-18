@@ -1,0 +1,4 @@
+wget:
+apt-transport-https:
+chef:
+  phase: install.d
